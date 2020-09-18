@@ -1,4 +1,8 @@
 
+# Azure Developer
+
+This is a public preview repository for the Azure Developer community. 
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
