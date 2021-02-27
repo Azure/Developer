@@ -1,3 +1,31 @@
+## 2021 April
+
+* Search
+    * Create Cognitive Search 
+    * Tutorial - Add search to my web site and deploy to live
+    * Top task for JS Devs - add search to web site
+
+## 2021 March
+
+Sprint plans: 
+
+* Service management with `@azure/arm-*` npm packages
+* Static Web apps
+* Custom domain names & certificates
+* Key vault
+* Landing page change  - top 10 JS focused docs by page views
+
+## 2021 February
+
+Sprint plans: 
+
+* Databases
+    * Cache for Redis (Postponed)
+    * Cosmos DB: Cassandra, MongoDB, SQL API (Postponed)
+    * MariaDB
+    * MySQL
+    * PostgreSQL
+
 ## 2021 January 
 
 Sprint plans:
