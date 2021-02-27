@@ -3,6 +3,12 @@
 
 This is a public preview repository for the Azure Developer community. 
 
+## JavaScript Developer Experience docs
+
+* [Documentation](./JavaScript)
+* [Sprint plans](./JavaScript/sprint-plan.md)
+* [Samples](/JavaScript/samples.md)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
